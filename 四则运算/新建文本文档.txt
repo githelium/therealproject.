@@ -1,0 +1,32 @@
+#询问用户算式数量
+guiprint('你想要多少个算式？')
+log('>>你想要多少个算式？')
+##############错误捕获部分##################
+while True:#死循环
+    
+    inputtimes = guiinput()
+    log('<<',inputtimes)
+    try:
+        times = int(inputtimes)#赋值并类型转换
+        log('times:',str(times))
+        
+        break#跳出死循环
+    except ValueError:#若转换不成功（输入非数字）
+        if inputtimes == 'exit':
+            log('exit with code 0.')
+            exit(0)
+        else:
+            guiprint('请输入数字！')#告知用户
+            
+            continue#进入下一轮循环
+#############错误捕获部分至此################
+generexp(times)#引用函数
+guiprint('分数:'+ str(score)+'/'+str(times))
+log('>>分数:'+ str(score)+'/'+str(times))
+if score == 0:
+    guiprint('百分制:0分')
+    log('>>百分制:0分')
+else:
+    guiprint('百分制:' + str(int((score / times) * 100)))
+    log('>>百分制:' + str(int((score / times) * 100)))
+time.sleep(3)

@@ -1,0 +1,186 @@
+
+
+starting:2020-03-07
+<13:37:16>[info]Set score to 0.
+<13:37:16>[info]score:0
+<13:37:16>[info]generite start.
+<13:37:16>randoming.
+<13:37:16>[info]thing:4
+<13:37:16>[info]b:8
+<13:37:16>[info]n:46
+<13:37:16>[info]a:368
+<13:37:16>[info]ath:46.0
+<13:37:16>>>368/8=
+<13:38:37>try to get.
+<13:38:37>do.
+
+
+starting:2020-03-07
+<13:54:49>[info]Set score to 0.
+<13:54:49>[info]score:0
+<13:54:49>[info]generite start.
+<13:54:49>randoming.
+<13:54:49>[info]thing:1
+<13:54:49>[info]a:487
+<13:54:49>[info]b:893
+<13:54:49>[info]ath:1380
+<13:54:49>>>487+893=
+<13:55:05>try to get.
+
+
+starting:2020-03-07
+<14:01:13>[info]Set score to 0.
+<14:01:13>[info]score:0
+<14:01:13>[info]generite start.
+<14:01:13>randoming.
+<14:01:13>[info]thing:3
+<14:01:13>[info]a:32
+<14:01:13>[info]b:3
+<14:01:13>[info]ath:96
+<14:01:13>>>32*3=
+
+
+starting:2020-03-07
+<14:01:43>[info]Set score to 0.
+<14:01:43>[info]score:0
+<14:01:43>[info]generite start.
+<14:01:43>randoming.
+<14:01:43>[info]thing:1
+<14:01:43>[info]a:285
+<14:01:43>[info]b:878
+<14:01:43>[info]ath:1163
+<14:01:43>>>285+878=
+
+
+starting:2020-03-08
+<08:15:37>[info]Set score to 0.
+<08:15:37>[info]score:0
+<08:15:37>[info]generite start.
+<08:15:37>randoming.
+<08:15:37>[info]thing:1
+<08:15:37>[info]a:696
+<08:15:37>[info]b:573
+<08:15:37>[info]ath:1269
+<08:15:37>>>696+573=
+
+
+starting:2020-03-08
+<08:18:16>[info]Set score to 0.
+<08:18:16>[info]score:0
+<08:18:16>[info]generite start.
+<08:18:16>randoming.
+<08:18:16>[info]thing:1
+<08:18:16>[info]a:522
+<08:18:16>[info]b:408
+<08:18:16>[info]ath:930
+<08:18:16>>>522+408=
+
+
+starting:2020-03-08
+<08:18:57>[info]Set score to 0.
+<08:18:57>[info]score:0
+<08:18:57>[info]generite start.
+<08:18:57>randoming.
+<08:18:57>[info]thing:2
+<08:18:57>[info]a:428
+<08:18:57>[info]b:357
+<08:18:57>[info]ath:71
+<08:18:57>>>428-357=
+
+
+starting:2020-03-08
+<08:25:42>[info]Set score to 0.
+<08:25:42>[info]score:0
+<08:25:42>[info]generite start.
+<08:25:42>randoming.
+<08:25:42>[info]thing:3
+<08:25:42>[info]a:78
+<08:25:42>[info]b:5
+<08:25:42>[info]ath:390
+<08:25:42>>>78*5=
+
+
+starting:2020-03-08
+<08:26:41>[info]Set score to 0.
+<08:26:41>[info]score:0
+<08:26:45>[info]generite start.
+<08:26:45>randoming.
+<08:26:45>[info]thing:3
+<08:26:45>[info]a:19
+<08:26:45>[info]b:4
+<08:26:45>[info]ath:76
+<08:26:45>>>19*4=
+
+
+starting:2020-03-08
+<08:27:22>[info]Set score to 0.
+<08:27:22>[info]score:0
+<08:27:22>[info]generite start.
+<08:27:25>randoming.
+<08:27:25>[info]thing:3
+<08:27:25>[info]a:88
+<08:27:25>[info]b:5
+<08:27:25>[info]ath:440
+<08:27:25>>>88*5=
+
+
+starting:2020-03-08
+<08:31:19>[info]Set score to 0.
+<08:31:19>[info]score:0
+<08:31:19>[info]generite start.
+<08:31:19>randoming.
+<08:31:19>[info]thing:4
+<08:31:19>[info]b:1
+<08:31:19>[info]n:46
+<08:31:19>[info]a:46
+<08:31:19>[info]ath:46.0
+<08:31:19>>>46/1=
+
+
+starting:2020-03-08
+<08:53:08>[info]Set score to 0.
+<08:53:08>[info]score:0
+<08:53:08>[info]generite start.
+<08:53:08>randoming.
+<08:53:08>[info]thing:2
+<08:53:08>[info]a:116
+<08:53:08>[info]b:49
+<08:53:08>[info]ath:67
+<08:53:08>>>116-49=
+
+
+starting:2020-03-08
+<10:57:15>[info]Set score to 0.
+<10:57:15>[info]score:0
+<10:57:15>[info]generite start.
+<10:57:15>randoming.
+<10:57:15>[info]thing:1
+<10:57:15>[info]a:666
+<10:57:15>[info]b:889
+<10:57:15>[info]ath:1555
+<10:57:15>>>666+889=
+
+
+starting:2020-04-04
+<22:03:28>[info]Set score to 0.
+<22:03:28>[info]score:0
+<22:03:28>[info]generite start.
+<22:03:28>randoming.
+<22:03:28>[info]thing:1
+<22:03:28>[info]a:735
+<22:03:28>[info]b:921
+<22:03:28>[info]ath:1656
+<22:03:28>>>735+921=
+
+
+starting:2020-04-04
+<22:04:22>[info]Set score to 0.
+<22:04:22>[info]score:0
+<22:04:22>[info]generite start.
+<22:04:22>randoming.
+<22:04:22>[info]thing:4
+<22:04:22>[info]b:6
+<22:04:22>[info]n:93
+<22:04:22>[info]a:558
+<22:04:22>[info]ath:93.0
+<22:04:22>>>558/6=
